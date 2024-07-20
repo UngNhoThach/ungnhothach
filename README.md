@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ungnhothach&label=Profile%20views&color=0e75b6&style=flat" alt="ungnhothach" /> </p>
 
-- 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **ungnhothach.2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
